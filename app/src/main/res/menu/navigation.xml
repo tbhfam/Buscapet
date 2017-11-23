@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/ndAdocao"
+        android:icon="@drawable/gift"
+        android:title="@string/adocao"/>
+
+    <item
+        android:id="@+id/ndAchados"
+        android:icon="@drawable/nav_location"
+        android:title="@string/achados"/>
+
+    <item
+        android:id="@+id/ndPerdidos"
+        android:icon="@drawable/nav_search"
+        android:title="@string/perdidos"/>
+
+    <item
+        android:id="@+id/ndMensagens"
+        android:icon="@drawable/nav_messages"
+        android:title="@string/mensagens"/>
+
+</menu>

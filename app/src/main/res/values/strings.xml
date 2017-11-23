@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Buscapet</string>
+    <string name="home">Home</string>
+    <string name="adocao">Adoção</string>
+    <string name="perdidos">Perdidos</string>
+    <string name="achados">Achados</string>
+    <string name="mensagens">Mensagens</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Entrar</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- splash -->
+    <string name="splashBemvindo">
+        Bem-vindo ao Buscapet, a sua central de adoções e o jeito mais fácil de reencontrar seu mascote perdido.
+    </string>
+    <string name="splashCadastrarTip">Para começar, crie já sua conta!</string>
+    <string name="splashCadastrarBt">Cadastre-se</string>
+    <string name="splashEntrarTip">Usuário existente, faça login aqui</string>
+    <string name="splashEntrarBt">Entrar</string>
+    <string name="splashVisitaTip">Sem tempo? Cadastre-se mais tarde</string>
+    <string name="splashVisitaBt">Continuar como visitante</string>
+
+    <!-- login -->
+    <string name="btConectar">Entrar</string>
+    <string name="btRecuperarConta">Esqueci minha senha</string>
+
+    <string name="loginNovoTv">Não é usuário?</string>
+    <string name="loginNovoBt">Criar nova conta</string>
+
+    <!-- cadastrar -->
+    <string name="cadastrarEmailTv">E-mail</string>
+    <string name="cadastrarSenhaTv">Senha</string>
+    <string name="cadastrarCadastrarBt">Cadastrar</string>
+
+    <string name="cadastrarSplashText">
+        Cadastre-se no Buscapet para aproveitar todos os recursos, como gerenciar postagens e entrar em contato com outros membros
+    </string>
+
+    <string name="cadastrarLoginTv">Já é usuário?</string>
+    <string name="cadastrarLoginBt">Entrar</string>
+    <string name="cadastrarVisitaTv">Sem tempo?</string>
+    <string name="cadastrarVisitaBt">Continuar como visitante</string>
+
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_test">TestActivity</string>
+
+</resources>
